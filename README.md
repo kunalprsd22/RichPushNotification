@@ -2,7 +2,7 @@
 
 Use for RichNotification & custom notification :
 
-<!-- {
+ {
         "to" : "cCKp60wctEDNvgtU_mjSDV:APA91bHiEfj9ThoTNe7Zhz-RZC0dA6Xt3Xst61lsVKcY8VV-gX8jh-5njtF7UzWDB4G49ESF2Xt6EkZI0_3jXV8qcYwLBL0aHbagvud6NlB1OoZxw-J6ApWuJYoP2cBErpPcuvYeakC3",
         "content_available" : true,
         "mutable_content": true,
@@ -22,4 +22,4 @@ Use for RichNotification & custom notification :
            "click_action": "myNotificationCategory"
         }
 
-    } -->
+    }
